@@ -28,11 +28,24 @@ Here are some ideas to get you started:
 🌱 I’m a Software Engineer with 5+ years of work experience in Enterprise Application Development. </br>
 👨‍💻 I am passionate about Micro-services, API development, Cloud Computing and Continuous Integration / Continuous Delivery. </br>
 
+### Languages
+
+
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+
+### Technologies
+
+
+![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+
 ![Lavesh's github stats](https://github-readme-stats.vercel.app/api?username=hemrajanilavesh&show_icons=true&hide_border=true)&nbsp;&nbsp;
 <br/>
-![Lavesh's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=isupersky&layout=compact&langs_count=8&hide_border=true)
-<br/>
-
 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=hemrajanilavesh.hemrajanilavesh)
