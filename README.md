@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ### About Me 🚀
 🌱 I’m a Software Engineer with 5+ years of work experience in Enterprise Application Development. </br>
-👨‍💻 I am passionate about API development, Cloud Computing and enjoy learning new things. </br>
+👨‍💻 I am passionate about Micro-services, API development, Cloud Computing and Continuous Integration / Continuous Delivery. </br>
 
 ![Lavesh's github stats](https://github-readme-stats.vercel.app/api?username=hemrajanilavesh&show_icons=true&hide_border=true)&nbsp;&nbsp;
 <br/>
