@@ -11,7 +11,7 @@
 <br />
 
 ### About Me 🚀
-🌱 I’m a Software Engineer with 5+ years of work experience in Enterprise Application Development. </br>
+🌱 I’m a Software Engineer with 7+ years of work experience in Enterprise Application Development. </br>
 👨‍💻 I am passionate about Micro-services, API development, Cloud Computing and Continuous Integration / Continuous Delivery. </br>
 
 ### Languages
